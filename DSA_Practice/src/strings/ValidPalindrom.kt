@@ -1,7 +1,7 @@
 package strings
 
 fun main() {
-    val input = "A man, a plan, a canal: Panama"
+    val input = ",,,,   A man, a plan, a canal: Panama:::::"
     val output = isValidPalindrom(input)
     println(output)
 }
